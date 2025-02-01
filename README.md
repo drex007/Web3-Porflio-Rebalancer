@@ -1,7 +1,7 @@
 ## What will want to do
-1. Withdraw from aave
-2. Deposit into AAVE
-3. SWap using uniswap 
+1. Withdraw from AAVE
+2. Swap and rebalance portolio using uniswap 
+3. Deposit into AAVE
 
 
 ## Python version 3. 11
